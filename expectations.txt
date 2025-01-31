@@ -1,0 +1,3 @@
+Expectations for CMSC 100
+
+I expect to learn about constructing web pages, particularly using HTML/CSS/Javascript and also using databases. For the laboratory, I expect a collaborative environment. Overall, I look forward to having a valuable learning experience.
